@@ -1,0 +1,16 @@
+git *.iml
+*.ipr
+*.iws
+*.lck
+*.log
+*.iml
+*.ipr
+*.iws
+target/
+.ideaDataSources
+dataSources
+.idea
+src/main/resources/logback-spring.xml
+.idea/
+*test.java
+*/test/
